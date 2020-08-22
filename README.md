@@ -21,5 +21,5 @@ Code used to generate optimal results for the Neural Network Model with one hidd
 Experiment 2 Folder:
 Code used to generate optimal results for the Neural Network Model with two hidden layers.
 
-All-Experiment_Results.xlsx:
+All-Experiment_Results Excel file:
 Contains the results from the first part of the experiments, containing the R2 results as well as the results from the second part of the experiments, containing the MSE results for all models.
