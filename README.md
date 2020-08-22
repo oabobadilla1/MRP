@@ -3,22 +3,22 @@
 Raw Data Zip Files:
 These files contain the files utilized to peform the experiments
 
-Twitter-Tweet-Etraction:
+Twitter-Tweet-Etraction Folder:
 Code used to extract the Twitter tweets for each telecommunication company.
 
-Google Trend code:
+Google Trend code Folder:
 Code used to extract Google Trend's Search Value Index data for each company.
 
-GCP-Sentiment: 
+GCP-Sentiment Folder: 
 Is the code used to extract sentiment for each Twitter tweet by using Google Cloud Platform-Natural Language Platform's API.
 
-Exploratory Analysis:
+Exploratory Analysis Folder:
 Code used for tuning the optimal parameters to use on each individual metric for each company.
 
-Experiment 1:
+Experiment 1 Folder:
 Code used to generate optimal results for the Neural Network Model with one hidden layer.
 
-Experiment 2:
+Experiment 2 Folder:
 Code used to generate optimal results for the Neural Network Model with two hidden layers.
 
 All-Experiment_Results.xlsx:
