@@ -3,3 +3,23 @@
 Raw Data Zip Files:
 These files contain the files utilized to peform the experiments
 
+Twitter-Tweet-Etraction:
+Code used to extract the Twitter tweets for each telecommunication company.
+
+Google Trend code:
+Code used to extract Google Trend's Search Value Index data for each company.
+
+GCP-Sentiment: 
+Is the code used to extract sentiment for each Twitter tweet by using Google Cloud Platform-Natural Language Platform's API.
+
+Exploratory Analysis:
+Code used for tuning the optimal parameters to use on each individual metric for each company.
+
+Experiment 1:
+Code used to generate optimal results for the Neural Network Model with one hidden layer.
+
+Experiment 2:
+Code used to generate optimal results for the Neural Network Model with two hidden layers.
+
+All-Experiment_Results.xlsx:
+Contains the results from the first part of the experiments, containing the R2 results as well as the results from the second part of the experiments, containing the MSE results for all models.
